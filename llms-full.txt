@@ -1,0 +1,51 @@
+# Geotechnik — Norderstedt
+
+> Geotechnical engineering services in Norderstedt, Deutschland.
+
+## Services
+- [Anker](https://norderstedt.baugrundgutachten1.de/anker/)
+- [Atterberg Grenzen](https://norderstedt.baugrundgutachten1.de/atterberg-grenzen/)
+- [Aushub](https://norderstedt.baugrundgutachten1.de/aushub/)
+- [Aushub Monitoring](https://norderstedt.baugrundgutachten1.de/aushub-monitoring/)
+- [Bodenplatten](https://norderstedt.baugrundgutachten1.de/bodenplatten/)
+- [Bodenverbesserung](https://norderstedt.baugrundgutachten1.de/bodenverbesserung/)
+- [Boschungsstabilitat](https://norderstedt.baugrundgutachten1.de/boschungsstabilitat/)
+- [Cbr Strasse](https://norderstedt.baugrundgutachten1.de/cbr-strasse/)
+- [Cpt Versuch](https://norderstedt.baugrundgutachten1.de/cpt-versuch/)
+- [Erdbebenisolierung](https://norderstedt.baugrundgutachten1.de/erdbebenisolierung/)
+- [Flexibler Belag](https://norderstedt.baugrundgutachten1.de/flexibler-belag/)
+- [Fundamente](https://norderstedt.baugrundgutachten1.de/fundamente/)
+- [Grundungen](https://norderstedt.baugrundgutachten1.de/grundungen/)
+- [Hange](https://norderstedt.baugrundgutachten1.de/hange/)
+- [In Situ Durchlassigkeit](https://norderstedt.baugrundgutachten1.de/in-situ-durchlassigkeit/)
+- [Injektionen](https://norderstedt.baugrundgutachten1.de/injektionen/)
+- [Korngrossenanalyse](https://norderstedt.baugrundgutachten1.de/korngrossenanalyse/)
+- [Labor](https://norderstedt.baugrundgutachten1.de/labor/)
+- [Labor In Situ](https://norderstedt.baugrundgutachten1.de/labor-in-situ/)
+- [Masw](https://norderstedt.baugrundgutachten1.de/masw/)
+- [Pfahle](https://norderstedt.baugrundgutachten1.de/pfahle/)
+- [Proctor Versuche](https://norderstedt.baugrundgutachten1.de/proctor-versuche/)
+- [Ruttelverdichtung](https://norderstedt.baugrundgutachten1.de/ruttelverdichtung/)
+- [Sandkegel Dichte](https://norderstedt.baugrundgutachten1.de/sandkegel-dichte/)
+- [Schottersaulen](https://norderstedt.baugrundgutachten1.de/schottersaulen/)
+- [Schurfgruben](https://norderstedt.baugrundgutachten1.de/schurfgruben/)
+- [Seismik](https://norderstedt.baugrundgutachten1.de/seismik/)
+- [Seismische Mikrozonierung](https://norderstedt.baugrundgutachten1.de/seismische-mikrozonierung/)
+- [Seismische Refraktion](https://norderstedt.baugrundgutachten1.de/seismische-refraktion/)
+- [Spt Bohrung](https://norderstedt.baugrundgutachten1.de/spt-bohrung/)
+- [Starrer Belag](https://norderstedt.baugrundgutachten1.de/starrer-belag/)
+- [Strassenbau](https://norderstedt.baugrundgutachten1.de/strassenbau/)
+- [Stutzmauern](https://norderstedt.baugrundgutachten1.de/stutzmauern/)
+- [Tiefe Aushube](https://norderstedt.baugrundgutachten1.de/tiefe-aushube/)
+- [Triaxialversuch](https://norderstedt.baugrundgutachten1.de/triaxialversuch/)
+- [Untersuchung](https://norderstedt.baugrundgutachten1.de/untersuchung/)
+- [Verflussigung](https://norderstedt.baugrundgutachten1.de/verflussigung/)
+- [Weichbodentunnel](https://norderstedt.baugrundgutachten1.de/weichbodentunnel/)
+- [Widerstand](https://norderstedt.baugrundgutachten1.de/widerstand/)
+
+## Contact
+- Website: https://norderstedt.baugrundgutachten1.de/
+
+## About
+This site provides geotechnical engineering services in Norderstedt, Deutschland.
+Compliant with local and international standards (ASTM, ISO, country-specific norms).

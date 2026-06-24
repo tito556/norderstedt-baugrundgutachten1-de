@@ -1,0 +1,20 @@
+{
+  "name": "Geotechnik",
+  "short_name": "Geotechnik",
+  "start_url": "/",
+  "display": "standalone",
+  "theme_color": "#0A2540",
+  "background_color": "#FFFFFF",
+  "icons": [
+    {
+      "src": "/img/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ],
+  "lang": "de",
+  "orientation": "any",
+  "scope": "/",
+  "description": "Professionelle geotechnische Dienstleistungen in Norderstedt, Germany. Bodenstudien, Prüfungen und technische Beratung.",
+  "id": "/norderstedt-5773"
+}
